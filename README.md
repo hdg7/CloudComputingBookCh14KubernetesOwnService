@@ -1,3 +1,9 @@
+# Chapter 14 Own Service on Kubernetes
+
+This repository contains the own service on Kubernetes tutorial mentioned in **Chapter 14** of the book:
+
+[**Cloud Computing for Artificial Intelligence: Concepts, Methods, and Practical Tools**](https://amzn.eu/d/02lMPIKf)
+
 # Adding a Custom Service to a Multi-Service Kubernetes Cluster with Ingress
 
 This guide explains how to add your own service (e.g., a REST API) to an existing multi-service Kubernetes cluster managed with **Kind** and exposed via **Ingress**.
